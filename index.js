@@ -10,4 +10,5 @@
 
 console.log("Hello World!")
 
-console.error("Error")
+// в gitignore указываем папки, которые не будут отправляться на наш github
+// node_modules - хранит библиотеки и пакеты. .env - хранит приватные данные (пароли, ..)
