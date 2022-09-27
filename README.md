@@ -14,5 +14,5 @@
 
 master
 develop
-feature/maim-page - ветка, отвечает за разработку главной страницы
+feature/main-page - ветка, отвечает за разработку главной страницы
 feature/about-company - ветка, отвечает за страницу о компании
